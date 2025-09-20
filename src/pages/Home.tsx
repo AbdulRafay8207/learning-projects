@@ -12,21 +12,21 @@ const Home = () => {
       image: todoimg,
       route: "/todo",
       repoLink: "https://github.com/AbdulRafay8207/learning-projects",
-      liveLink: "https://yourliveurl.com/todo",
+      liveLink: "https://learning-project-vert.vercel.app/",
     },
     {
       title: "Quiz App",
       image: quizimg,
       route: "/quiz",
       repoLink: "https://github.com/AbdulRafay8207/learning-projects",
-      liveLink: "https://yourliveurl.com/quiz",
+      liveLink: "https://learning-project-vert.vercel.app/",
     },
     {
       title: "Stepper Form",
       image: stepperimg,
       route: "/stepper",
       repoLink: "https://github.com/AbdulRafay8207/learning-projects",
-      liveLink: "https://yourliveurl.com/stepper",
+      liveLink: "https://learning-project-vert.vercel.app/",
     },
   ];
 
