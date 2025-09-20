@@ -5,6 +5,7 @@ import stepperimg from "../assets/stepper.png";
 import "../CSSpages/Home.css"
 
 const Home = () => {
+  
   const projects = [
     {
       title: "Todo App",
