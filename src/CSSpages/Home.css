@@ -1,0 +1,14 @@
+.home-container {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 0 16px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.projects-grid {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  flex-wrap: wrap; 
+}
